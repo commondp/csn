@@ -20,7 +20,8 @@
 "shareban":"https://1.bp.blogspot.com/-uAeuvZwJxqo/X2y15MWamNI/AAAAAAAAAI4/yAfNwg2hubUi5xqJPnCzrlzb9RHUvDBggCLcBGAsYHQ/s16000/shareban-min.png",
 "sportlink":"https://tv.commondp.com/sports.html",
 "alllink":"https://tv.commondp.com/sports.html",
-"stufflink":"https://tv.commondp.com/sports.html" },{ "pkey":"5617i5-083849-y8rsu8-0c46r6",
+"stufflink":"https://tv.commondp.com/sports.html",
+"inter":"480000"},{ "pkey":"5617i5-083849-y8rsu8-0c46r6",
 "version":"1.0",
 "versionlink":"https://",
 "sbanner":"",
@@ -41,5 +42,6 @@
 "shareban":"",
 "sportlink":"https://www.google.com/",
 "alllink":"https://www.facebook.com/",
-"stufflink":"https://www.twitter.com/" }
+"stufflink":"https://www.twitter.com/",
+"inter":"480000" }
 ]
